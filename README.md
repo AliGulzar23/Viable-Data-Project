@@ -4,3 +4,4 @@ Use following user
 Username: aligulzar
 Password: bfdvphY7$$$
 
+App is still buggy. requires a reload everytime some change happens. 
